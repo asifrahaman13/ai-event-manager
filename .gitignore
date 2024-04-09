@@ -1,0 +1,6 @@
+# Ignore Python cache directories and files
+__pycache__/
+*.pyc
+.env
+token.json
+credentials.json
